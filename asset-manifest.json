@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nikitajadhav/static/css/main.3032ba11.chunk.css",
+    "main.js": "/nikitajadhav/static/js/main.c16fa24c.chunk.js",
+    "main.js.map": "/nikitajadhav/static/js/main.c16fa24c.chunk.js.map",
+    "runtime-main.js": "/nikitajadhav/static/js/runtime-main.33161c5d.js",
+    "runtime-main.js.map": "/nikitajadhav/static/js/runtime-main.33161c5d.js.map",
+    "static/js/2.48909006.chunk.js": "/nikitajadhav/static/js/2.48909006.chunk.js",
+    "static/js/2.48909006.chunk.js.map": "/nikitajadhav/static/js/2.48909006.chunk.js.map",
+    "static/js/3.96fa53a5.chunk.js": "/nikitajadhav/static/js/3.96fa53a5.chunk.js",
+    "static/js/3.96fa53a5.chunk.js.map": "/nikitajadhav/static/js/3.96fa53a5.chunk.js.map",
+    "index.html": "/nikitajadhav/index.html",
+    "static/css/main.3032ba11.chunk.css.map": "/nikitajadhav/static/css/main.3032ba11.chunk.css.map",
+    "static/js/2.48909006.chunk.js.LICENSE.txt": "/nikitajadhav/static/js/2.48909006.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/nikitajadhav/static/media/bag1.a7cadbf5.jpg",
+    "static/media/resume.pdf": "/nikitajadhav/static/media/resume.989dd8a0.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33161c5d.js",
+    "static/js/2.48909006.chunk.js",
+    "static/css/main.3032ba11.chunk.css",
+    "static/js/main.c16fa24c.chunk.js"
+  ]
+}
